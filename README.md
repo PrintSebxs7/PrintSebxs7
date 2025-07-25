@@ -5,7 +5,7 @@ Desarrollador de software en formación, con gran entusiasmo por el aprendizaje 
 ## 🌐 Redes Sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Keeeany) 
 
-# 💻 Tech Stack:
+# 💻 Funciones:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
@@ -15,10 +15,7 @@ Desarrollador de software en formación, con gran entusiasmo por el aprendizaje 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrintSebxs7&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
+### 🔝 Contribuciones
 ![](https://github-contributor-stats.vercel.app/api?username=PrintSebxs7&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
